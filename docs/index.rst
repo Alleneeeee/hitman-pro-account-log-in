@@ -1,5 +1,4 @@
-```rst
-hitman pro account log in
+How Do I Login Hitman Pro Account | Hitman Pro Account Log in
 ==========================
 
 .. toctree::
