@@ -1,4 +1,4 @@
-project = 'Verizon Email'
+project = 'Hitman Pro'
 author = 'Your Name'
 release = '1.0'
 
